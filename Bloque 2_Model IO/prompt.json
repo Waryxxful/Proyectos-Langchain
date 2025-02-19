@@ -1,0 +1,15 @@
+{
+    "name": null,
+    "input_variables": [
+        "pregunta"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "pregunta : {pregunta}\n\nrespuesta : vaqmos a verlo paso a paso ",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
