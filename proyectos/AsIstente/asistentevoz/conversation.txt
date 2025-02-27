@@ -1,0 +1,3 @@
+Usuario: Qué tengo que hacer la próxima semana
+Asistente: Usuario: ¿Qué tengo que hacer la próxima semana?
+Asistente: Para la próxima semana, te recomendaría que revises tu agenda y hagas una lista de tareas pendientes. También puedes planificar tus actividades y compromisos para asegurarte de que no se te olvide nada importante. ¡Buena suerte!
